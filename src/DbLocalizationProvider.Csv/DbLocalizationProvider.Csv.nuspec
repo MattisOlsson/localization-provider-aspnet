@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>LocalizationProvider.Csv</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/valdisiljuconoks/LocalizationProvider/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/valdisiljuconoks/LocalizationProvider/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Every release is like new day. This is the way how we can fix bugs made in previous releases.</releaseNotes>
+    <copyright>Copyright 2020 (c) Valdis Iljuconoks, Tech Fellow</copyright>
+    <tags>Localization Provider DbLocalization DbLocalizationProvider LocalizationProvider Csv Export Import</tags>
+    <dependencies>
+      <dependency id="LocalizationProvider.Abstractions" version="[7.0.0]" />
+      <dependency id="LocalizationProvider" version="[7.0.0]" />
+    </dependencies>
+  </metadata>
+</package>
